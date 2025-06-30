@@ -1,4 +1,4 @@
-# red.srofi
+# red.rofi
 
 Achromatic colorscheme with red accent, perfect for LED screens.
 
