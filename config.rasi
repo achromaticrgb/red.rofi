@@ -1,0 +1,24 @@
+configuration {
+  modes: "drun";
+  display-drun: "";
+  show-icons: true;
+}
+
+* {
+  red: #e61919;
+  blue: #1f1f1f;
+  lightfg: #ff4d4d;
+  lightbg: #2b2b2b;
+  background: #000000;
+  foreground: #b1b1b1;
+}
+window {
+  width: 500px;
+  border-radius: 24px;
+}
+entry {
+  padding: 5px;
+}
+element {
+  padding: 10px;
+}
